@@ -11,5 +11,5 @@ h1, h2{
     height: 200px;
     width: 200px;
     background-color: chocolate;
-    margin: auto;
+    margin: 0 auto;
 }
