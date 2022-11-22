@@ -10,6 +10,6 @@ h1, h2{
 .caja{
     height: 200px;
     width: 200px;
-    background-color: chocolate;
-    margin: 0 auto;
+    background: chocolate;
+    margin: auto;
 }
