@@ -6,3 +6,10 @@ body{
 h1, h2{
     text-align: center;
 }
+
+.caja{
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+    margin: auto;
+}
