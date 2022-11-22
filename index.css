@@ -5,8 +5,15 @@ body{
 
 h1, h2{
     text-align: center;
-    font-family: cursive;
-    color:crimson;
+    font-family: 'Times New Roman';
+    color:cadetblue;
+}
+
+h3{
+    font-family:monospace;
+    font-size: 1.5em;
+    text-align: center;
+    color:thistle;
 }
 
 .caja{
