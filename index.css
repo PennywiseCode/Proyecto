@@ -22,3 +22,59 @@ h3{
     background: chocolate;
     margin: auto;
 }
+
+.creeper{
+    background: darkgreen;
+    height: 270px;
+    width: 270px;
+    margin: auto;
+    position: relative;
+}
+
+.ojo1{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    background: black;
+    margin-top: 35px;
+    margin-left: 45px;
+}
+
+.ojo2{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    background: rgb(0, 0, 0);
+    margin-top: 35px;
+    margin-left: 165px;
+
+}
+
+.boca_center{
+    position: absolute;
+    height: 90px;
+    width: 60px;
+    background: black;
+    margin-top: 95px;
+    margin-left: 105px;
+    
+    
+}
+
+.boca_left{
+    position: absolute;
+    background: black;
+    height: 90px;
+    width: 30px;
+    margin-top: 127px;
+    margin-left: 75px;
+}
+
+.boca_right{
+    position: absolute;
+    background: black;
+    height: 90px;
+    width: 30px;
+    margin-top: 127px;
+    margin-left: 165px;
+}
